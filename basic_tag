@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>เรียนรู้ HTML พื้นฐาน</title>
+</head>
+<body>
+  <h1>ยินดีต้อนรับสู่การเรียนรู้ HTML</h1>
+  
+  <p>HTML เป็นภาษาที่ใช้สร้างหน้าเว็บ. เราสามารถเพิ่มเนื้อหาต่าง ๆ เช่น ข้อความ, รูปภาพ และลิงก์ได้.</p>
+
+  <p style="font-size: 30px;">ตัวอย่างการใช้ HTML เบื้องต้น </p>
+  
+  <p>นี่คือตัวอย่างของการเขียน <b>ข้อความตัวหนา</b>, <i>ข้อความตัวเอียง</i>, และ <u>ข้อความขีดเส้นใต้</u>.
+   <span style="color: pink"> นี้คือตัวอย่างอักษรสี </span>
+</p>
+
+  <br> 
+
+  <h2>การแทรกรูปภาพ</h2>
+  <p>นี่คือตัวอย่างของการแทรกรูปภาพ:</p>
+  <img src="dog.jpg" alt="ภาพหมา" width="300" height="200">
+
+  <h2>การสร้างลิงก์</h2>
+  <p>นี่คือตัวอย่างของการสร้างลิงก์:</p>
+  <a href="https://www.google.co.th">คลิกที่นี่เพื่อค้นหาข้อมูลใน Google</a>
+
+
+</body>
+</html>
